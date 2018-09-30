@@ -1,0 +1,18 @@
+{
+  "name": "test_android",
+  "version": "1.0.0",
+  "description": "```\r pip install -r requirement/base.txt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@101.200.179.37:/datadisk/vanthink_repos/git_repos/test_android.git"
+  },
+  "author": "SUNFEIFEI",
+  "license": "ISC",
+  "dependencies": {
+    "appium-uiautomator2-server": "^1.1.0"
+  }
+}

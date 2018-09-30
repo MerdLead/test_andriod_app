@@ -1,0 +1,7 @@
+__pycache__
+.idea
+appium_env
+.apk
+node_modules
+storges
+storges/*
